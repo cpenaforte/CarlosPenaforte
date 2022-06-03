@@ -4,12 +4,12 @@ Contact me at [LinkedIn](https://www.linkedin.com/in/carlos-penaforte-5798ab)!
  :mortar_board: Fullstack developer    
  :mortar_board: Engineering student     
 ## :computer: Skills
- ### Languages
+ #### Languages
  :heavy_check_mark: JavaScript   
  :heavy_check_mark: CSS   
  :heavy_check_mark: HTML   
  :heavy_check_mark: Python     
- ### Fields
+ #### Fields
  :heavy_check_mark: Website Dev    
  :heavy_check_mark: User Interface    
  :heavy_check_mark: Data Science     
