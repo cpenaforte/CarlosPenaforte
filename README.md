@@ -1,8 +1,8 @@
 # Hello, World!
 Contact me at [LinkedIn](https://www.linkedin.com/in/carlos-penaforte-5798ab)!
 ## :raising_hand: Carlos Penaforte
- :mortar_board: Fullstack developer
- :mortar_board: Engineering student
+ :mortar_board: Fullstack developer    
+ :mortar_board: Engineering student     
 ## :computer: Skills
  ### Languages
  :heavy_check_mark: JavaScript   
