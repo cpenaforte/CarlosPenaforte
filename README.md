@@ -1,5 +1,5 @@
 # Hello, World!
-Contact me at [LinkedIn](https://www.linkedin.com/in/carlos-penaforte-5798ab)!
+Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlos-penaforte-5798ab214)!
 ## :raising_hand: Carlos Penaforte
  :mortar_board: Fullstack developer    
  :mortar_board: Engineering student     
