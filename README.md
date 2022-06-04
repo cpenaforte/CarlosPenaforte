@@ -15,6 +15,7 @@ Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlos-penaforte-5798ab21
  :heavy_check_mark: Data Science     
  :heavy_check_mark: POO    
  :heavy_check_mark: Scrum Methodology     
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPenaforte)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
