@@ -13,7 +13,7 @@ Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlos-penaforte-5798ab21
  :heavy_check_mark: Node.JS       
  #### Fields
  :heavy_check_mark: Website Dev   
- :heavy_check_mark: User Interface 
+ :heavy_check_mark: User Interface   
  :heavy_check_mark: Server side  
  :heavy_check_mark: API    
  :heavy_check_mark: Game Scripts   
