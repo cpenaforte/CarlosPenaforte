@@ -15,7 +15,7 @@ Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlospenaforte)!
  #### Fields
  :heavy_check_mark: Fullstack Development    
  :heavy_check_mark: Web Development    
- :heavy_check_mark: Database
+ :heavy_check_mark: Database    
  :heavy_check_mark: REST API    
  :heavy_check_mark: Game Scripts   
  :heavy_check_mark: TDD   
