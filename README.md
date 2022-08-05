@@ -1,8 +1,8 @@
 # Hello, World!
-Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlos-penaforte-5798ab214)!
+Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlospenaforte)!
 ## :raising_hand: Carlos Penaforte
- :mortar_board: Full Stack developer    
- :mortar_board: Engineering student     
+ :mortar_board: Fullstack developer     
+ :mortar_board: Web developer 
 ## :computer: Skills
  #### Hard Skills
  :heavy_check_mark: JavaScript ( ES6, ES5, API consumption, ... )    
@@ -15,6 +15,7 @@ Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlos-penaforte-5798ab21
  #### Fields
  :heavy_check_mark: Fullstack Development    
  :heavy_check_mark: Web Development    
+ :heavy_check_mark: Database
  :heavy_check_mark: REST API    
  :heavy_check_mark: Game Scripts   
  :heavy_check_mark: TDD   
