@@ -5,8 +5,8 @@ Contact me at [LinkedIn](https://www.linkedin.com/m/in/carlospenaforte)!
 ## :computer: Skills
  #### Hard Skills
  :heavy_check_mark: JavaScript ( ES6, ES5, API consumption, ... )    
- :heavy_check_mark: Typescript
- :heavy_check_mark: Java ( Spring Framework, Spring Boot, Spring Data JPA, ...)
+ :heavy_check_mark: Typescript    
+ :heavy_check_mark: Java ( Spring Framework, Spring Boot, Spring Data JPA, ...)    
  :heavy_check_mark: Vue.js ( Quasar Framework, Vue Router, Vuex, Composition API, ... )    
  :heavy_check_mark: ReactJs ( Redux, Context API, Styled-Components, ... )     
  :heavy_check_mark: HTML & CSS ( Transitions, @keyframes, ... )    
