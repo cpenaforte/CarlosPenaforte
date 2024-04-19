@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0096dc&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Carlos+Penaforte;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
-### GitHub Stats
+## Stats
 
 <div style="display: flex; gap: 32px; align-items: start;">
 
